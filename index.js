@@ -4,7 +4,7 @@ const welcome = require("cli-welcome");
 
 welcome({
   title: pkgJson.name,
-  tagLine: `Buenos ding-dong-diddly-dias, neighborino. We are so glad you're here.`,
+  tagLine: `Buenos ding-dong-diddly-dias, neighborino. I am so glad you're here.`,
   description: pkgJson.description,
   version: pkgJson.version,
   bgColor: `#FADC00`,
